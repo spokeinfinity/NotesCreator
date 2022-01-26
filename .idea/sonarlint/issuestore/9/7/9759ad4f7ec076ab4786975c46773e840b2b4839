@@ -1,0 +1,27 @@
+
+Y
+java:S1874E">Remove this use of "startActivityForResult"; it is deprecated.(ëÖƒ øÿÿÿÿ
+F
+java:S1172J"+Remove this unused method parameter "view".(ş½ıîşÿÿÿÿ
+_
+java:S1874k"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¹Î¾
+}
+java:S3252s"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(½ÑÕ²
+}
+java:S3252z"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(½ÑÕ²
+‚
+java:S3252~"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(Œ¦ˆüÿÿÿÿ
+ƒ
+java:S3252—"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(Œ¦ˆüÿÿÿÿ
+U
+java:S1874 ">Remove this use of "startActivityForResult"; it is deprecated.(Ìêò‹
+A
+java:S1068&"+Remove this unused "binding" private field.(¶ÃÊ
+C
+java:S16048"(Make this anonymous inner class a lambda(ÇÎáæşÿÿÿÿ
+C
+java:S1604@"(Make this anonymous inner class a lambda(“«ì×ıÿÿÿÿ
+]
+java:S2259o"BA "NullPointerException" could be thrown; "data" is nullable here.(”‘ôÕøÿÿÿÿ
+W
+java:S2259u"BA "NullPointerException" could be thrown; "data" is nullable here.(ø¥÷U

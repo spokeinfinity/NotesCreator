@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Kreator Notatek</string>
+    <string name="action_settings">Ustawienia</string>
+
+    <string name="first_fragment_label">Pierwszy fragment</string>
+    <string name="second_fragment_label">Drugi fragment</string>
+    <string name="next">Następny</string>
+    <string name="previous">Wcześniejszy</string>
+    <string name="authors">Autor aplikacji</string>
+    <string name="app_author">Lukasz Czeremcha</string>
+    <string name="author_button">Autor</string>
+    <string name="my_image_description">Android</string>
+
+    <string name="hello_first_fragment">Witaj pierwszy!</string>
+    <string name="hello_second_fragment">Witaj drugi!. Arg: %1$s</string>
+
+    <string name="hint_book_title">Treść</string>
+    <string name="hint_book_author">Autor</string>
+    <string name="button_save">Zapisz</string>
+    <string name="empty_not_saved">Notatka nie dodana ze względu na puste pola!</string>
+    <string name="book_added">Notatka dodana!</string>
+    <string name="book_edited">Notatka edytowana!</string>
+    <string name="book_deleted">Notatka usunięta!</string>
+</resources>
